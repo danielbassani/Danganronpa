@@ -210,7 +210,7 @@ public class DialogueController : MonoBehaviour
 						HUD.SetActive(true);
 						HUD.GetComponent<PanelFader>().FadeIfInitiallyShowing();
 						ShowCharacter();
-						index = 0; // uncomment to make dialogue repeat (but its bugged a bit)
+						// index = 0; // uncomment to make dialogue repeat (but its bugged a bit)
 
 						if (eventStarted)
 						{
