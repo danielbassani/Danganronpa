@@ -100,7 +100,6 @@ public class DialogueController : MonoBehaviour
                         {
                             sprite2.sprite = dialogueSprites[0]; // set sprite 2 to the first sprite
                         }
-                        index++; // increase index
 
                         // play soundclip if there is one, if audio was not played, and we are NOT supposed to skip current index
                         if (audioClips[index] != null && !audioPlayed)
