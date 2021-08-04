@@ -131,7 +131,7 @@ public class MouseClick : MonoBehaviour
 
     public void OnChoiceNo()
     {
-        dialogueController.UIObjForMenuSounds.GetComponent<MenuSounds>().PlaySound("menuSelect");
+        dialogueController.UIObjForMenuSounds.GetComponent<MenuSounds>().PlaySound("menuBack");
         StopCoroutine(choicePanel.GetComponentInChildren<TypeWriterEffect>().ShowText());
         choicePanel.GetComponentInChildren<TypeWriterEffect>().updateText = false;
         characterHit.GetComponent<Collider>().enabled = true;
