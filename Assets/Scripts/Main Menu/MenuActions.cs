@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+using UnityEngine.EventSystems;
 
 public class MenuActions : MonoBehaviour
 {
@@ -15,6 +17,7 @@ public class MenuActions : MonoBehaviour
     public GameObject mainMenuPanel;
     public GameObject gameSelectPanel;
     public GameObject newGamePanel;
+    public GameObject loadingPanel;
     float duration = 0.85f;
 
     // Start is called before the first frame update
@@ -26,8 +29,8 @@ public class MenuActions : MonoBehaviour
     public void PressStart()
     {
         audioSource.PlayOneShot(buttonPress);
-        StartCoroutine(FadeOut(mainMenuPanel));
-        StartCoroutine(FadeIn(gameSelectPanel));
+        StartCoroutine(FadeOut(mainMenuPanel, duration));
+        StartCoroutine(FadeIn(gameSelectPanel, duration));
         mainMenuPanel.SetActive(false);
         gameSelectPanel.SetActive(true);
     }
@@ -35,8 +38,8 @@ public class MenuActions : MonoBehaviour
     public void PressQuit()
     {
         audioSource.PlayOneShot(buttonPress);
-        StartCoroutine(FadeOut(gameSelectPanel));
-        StartCoroutine(FadeIn(mainMenuPanel));
+        StartCoroutine(FadeOut(gameSelectPanel, duration));
+        StartCoroutine(FadeIn(mainMenuPanel, duration));
         gameSelectPanel.SetActive(false);
         mainMenuPanel.SetActive(true);
     }
@@ -44,8 +47,8 @@ public class MenuActions : MonoBehaviour
     public void PressNewGame()
     {
         audioSource.PlayOneShot(buttonPress);
-        StartCoroutine(FadeOut(gameSelectPanel));
-        StartCoroutine(FadeIn(newGamePanel));
+        StartCoroutine(FadeOut(gameSelectPanel, duration));
+        StartCoroutine(FadeIn(newGamePanel, duration));
         gameSelectPanel.SetActive(false);
         newGamePanel.SetActive(true);
     }
@@ -53,21 +56,36 @@ public class MenuActions : MonoBehaviour
     public void NewGameYes()
     {
         audioSource.PlayOneShot(confirm);
+        StartCoroutine(FadeOut(gameSelectPanel, duration)); // make fade out and fade in longer
+        StartCoroutine(FadeIn(loadingPanel, duration)); // make fade out and fade in longer
+        gameSelectPanel.SetActive(false);
+        loadingPanel.SetActive(true);
+        StartCoroutine(WaitToSwitchScenes());
     }
 
     public void NewGameNo()
     {
         audioSource.PlayOneShot(no);
-        StartCoroutine(FadeOut(newGamePanel));
-        StartCoroutine(FadeIn(gameSelectPanel));
+        StartCoroutine(FadeOut(newGamePanel, duration));
+        StartCoroutine(FadeIn(gameSelectPanel, duration));
         newGamePanel.SetActive(false);
         gameSelectPanel.SetActive(true);
+    }
+
+    public void PressLoadGame()
+    {
+        audioSource.PlayOneShot(buttonPress);
+        StartCoroutine(FadeOut(gameSelectPanel, duration)); // make fade out and fade in longer
+        StartCoroutine(FadeIn(loadingPanel, duration)); // make fade out and fade in longer
+        gameSelectPanel.SetActive(false);
+        loadingPanel.SetActive(true);
+        StartCoroutine(WaitToSwitchScenes());
     }
 
     /*
      * This method fades in a panel
      */
-    public IEnumerator FadeIn(GameObject panel)
+    public IEnumerator FadeIn(GameObject panel, float duration)
     {
         float start = 0f, end = 1f;
         float counter = 0f;
@@ -86,7 +104,7 @@ public class MenuActions : MonoBehaviour
     /*
      * This method fades out a panel
      */
-    public IEnumerator FadeOut(GameObject panel)
+    public IEnumerator FadeOut(GameObject panel, float duration)
     {
         float start = 1f, end = 0f;
         float counter = 0f;
@@ -100,5 +118,14 @@ public class MenuActions : MonoBehaviour
 
             yield return null;
         }
+    }
+
+    /*
+     * Method waits to switch scenes
+     */
+    IEnumerator WaitToSwitchScenes()
+    {
+        yield return new WaitForSeconds(3.2f);
+        SceneManager.LoadScene(1);
     }
 }
