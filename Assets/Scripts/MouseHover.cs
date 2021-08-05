@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-public class MouseHover : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler
+public class MouseHover : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IPointerClickHandler
 {
     public Sprite normalSprite;
     public Sprite hoverSprite;
@@ -16,6 +16,12 @@ public class MouseHover : MonoBehaviour, IPointerEnterHandler, IPointerExitHandl
     }
 
     public void OnPointerExit(PointerEventData eventData)
+    {
+        gameObject.GetComponent<Image>().sprite = normalSprite;
+        gameObject.GetComponentInChildren<Text>().color = Color.white;
+    }
+
+    public void OnPointerClick(PointerEventData eventData)
     {
         gameObject.GetComponent<Image>().sprite = normalSprite;
         gameObject.GetComponentInChildren<Text>().color = Color.white;

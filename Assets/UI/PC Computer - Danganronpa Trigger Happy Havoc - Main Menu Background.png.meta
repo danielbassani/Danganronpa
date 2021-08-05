@@ -1,0 +1,1720 @@
+fileFormatVersion: 2
+guid: 1eed52f0d184c154696c3cb535391898
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4672074373189616441
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_0
+  - first:
+      213: -8791323152342199970
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_0
+  - first:
+      213: -26054660841111954
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_1
+  - first:
+      213: 9221958017128485789
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_2
+  - first:
+      213: 5171540664397102268
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_3
+  - first:
+      213: 8418669406262420653
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_4
+  - first:
+      213: 3258333983152011226
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_5
+  - first:
+      213: -5261252954400855895
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_6
+  - first:
+      213: -2590762289581060424
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_7
+  - first:
+      213: 1556068738672088467
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_8
+  - first:
+      213: -8777671254799229002
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_9
+  - first:
+      213: -5694582804230961686
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_10
+  - first:
+      213: 5438742015592225033
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_11
+  - first:
+      213: 6030306267090498651
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_12
+  - first:
+      213: -1683043215133268529
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_13
+  - first:
+      213: 3948948438746787070
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_14
+  - first:
+      213: -1181942334386588532
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_15
+  - first:
+      213: -8508675583592787207
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_16
+  - first:
+      213: 4147592720643564656
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_17
+  - first:
+      213: -3445358711224357001
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_18
+  - first:
+      213: 2881685925050851827
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_19
+  - first:
+      213: -3613411644298481734
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_20
+  - first:
+      213: -8320118291642081704
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_21
+  - first:
+      213: -1294859301070860
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_22
+  - first:
+      213: 4614545538847096414
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_23
+  - first:
+      213: -8093683841294555070
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_24
+  - first:
+      213: -6513545065478250242
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_25
+  - first:
+      213: -3220959816718249963
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_26
+  - first:
+      213: 2465313745159350295
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_27
+  - first:
+      213: 9015953434549286330
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_28
+  - first:
+      213: -6464518062913645224
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_29
+  - first:
+      213: -1552499949486302545
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_30
+  - first:
+      213: -8103469925083414151
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_31
+  - first:
+      213: -4170934365373800147
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_32
+  - first:
+      213: 2804659783933687200
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_33
+  - first:
+      213: -6414153203993483237
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_34
+  - first:
+      213: -8936455366783357026
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_35
+  - first:
+      213: -2570433981232452563
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_36
+  - first:
+      213: 3171197571397216865
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_37
+  - first:
+      213: -6839305479179667608
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_38
+  - first:
+      213: 9184534602903366282
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_39
+  - first:
+      213: 1209081305134468838
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_40
+  - first:
+      213: -8990589191805477715
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_41
+  - first:
+      213: -8310742221119603093
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_42
+  - first:
+      213: -6344875120515640467
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_43
+  - first:
+      213: 5602642507394471415
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_44
+  - first:
+      213: 2586373162141940511
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_45
+  - first:
+      213: -2653080862994889109
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_46
+  - first:
+      213: 7259233893506412512
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_47
+  - first:
+      213: -6903436253919961155
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_48
+  - first:
+      213: 8652125624685890616
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_49
+  - first:
+      213: -5708728999871125024
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_50
+  - first:
+      213: -3388360412022090474
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_51
+  - first:
+      213: 2414320669120342433
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_52
+  - first:
+      213: 6997961144603361911
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_53
+  - first:
+      213: 7905591084049951895
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_54
+  - first:
+      213: 5457479520708727488
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_55
+  - first:
+      213: 7266893632087519639
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_56
+  - first:
+      213: 7571687450420812725
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_57
+  - first:
+      213: 9096073982225192993
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_58
+  - first:
+      213: 6971526190532320366
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_59
+  - first:
+      213: 2346190036184973575
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_60
+  - first:
+      213: -3361123140846012265
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_61
+  - first:
+      213: 9156104743624059483
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_62
+  - first:
+      213: -8492071487317736309
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_63
+  - first:
+      213: 6183956014550017846
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_64
+  - first:
+      213: 1292350743003094615
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_65
+  - first:
+      213: -4048359995334867337
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_66
+  - first:
+      213: -4016983790646421257
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_67
+  - first:
+      213: -4023253258817060704
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_68
+  - first:
+      213: -391136120496392705
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_69
+  - first:
+      213: -2695865443905412292
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_70
+  - first:
+      213: 7130020963621739364
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_71
+  - first:
+      213: 6502499199421622792
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_72
+  - first:
+      213: -7988202471055388193
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_73
+  - first:
+      213: 437490810035196746
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_74
+  - first:
+      213: 3473101966276905164
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_75
+  - first:
+      213: -7373498534025247901
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_76
+  - first:
+      213: -5364884010693074613
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_77
+  - first:
+      213: 7180215733179240987
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_78
+  - first:
+      213: 6001039550555361855
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_79
+  - first:
+      213: -7785495530366147239
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_80
+  - first:
+      213: 8751775829811506834
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_81
+  - first:
+      213: -6764609777199598254
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_82
+  - first:
+      213: 2783182323452748669
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_83
+  - first:
+      213: 1177335181841733363
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_84
+  - first:
+      213: -7232966263340433368
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_85
+  - first:
+      213: 585702387855073753
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_86
+  - first:
+      213: 6345023132144355514
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_87
+  - first:
+      213: -7032575172822063045
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_88
+  - first:
+      213: 2544684918550880779
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_89
+  - first:
+      213: -3026893380779804629
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_90
+  - first:
+      213: 1798332331697944460
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_91
+  - first:
+      213: -3496867662542987056
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_92
+  - first:
+      213: -3644764289171751893
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_93
+  - first:
+      213: 8700442810571900017
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_94
+  - first:
+      213: -5971254897721401101
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_95
+  - first:
+      213: 8629208615410855021
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_96
+  - first:
+      213: -5980276337214057687
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_97
+  - first:
+      213: 183059558680192768
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_98
+  - first:
+      213: -4221810455488322333
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_99
+  - first:
+      213: 2127004476950750851
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_100
+  - first:
+      213: 7949797592472665972
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_101
+  - first:
+      213: -444691327927590632
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_102
+  - first:
+      213: 7008057710925775890
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_103
+  - first:
+      213: -8212266181757334765
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_104
+  - first:
+      213: -4353697527200943222
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_105
+  - first:
+      213: -4962147344633831366
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_106
+  - first:
+      213: 1727387465642481432
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_107
+  - first:
+      213: -7013669674040855372
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_108
+  - first:
+      213: -2317100165132099314
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_109
+  - first:
+      213: -3035228061958601820
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_110
+  - first:
+      213: 6571963867595381307
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_111
+  - first:
+      213: -1521010274012314178
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_112
+  - first:
+      213: 4317653318645635713
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_113
+  - first:
+      213: 26182857931855421
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_114
+  - first:
+      213: -2966121797975136707
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_115
+  - first:
+      213: -2075238215316345698
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_116
+  - first:
+      213: 4650383929111055287
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_117
+  - first:
+      213: 3095658051492517019
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_118
+  - first:
+      213: -2209222555719808202
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_119
+  - first:
+      213: -3820345458146147939
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_120
+  - first:
+      213: -5324326256851517936
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_121
+  - first:
+      213: 9165392098592249458
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_122
+  - first:
+      213: -6480445582934693847
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_123
+  - first:
+      213: 3430973420831751403
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_124
+  - first:
+      213: -2880599038248373245
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_125
+  - first:
+      213: -1518022269065320892
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_126
+  - first:
+      213: -64592582585474273
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_127
+  - first:
+      213: -7241664596321621306
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_128
+  - first:
+      213: 5684329054680096397
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_129
+  - first:
+      213: 7927848239227244276
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_130
+  - first:
+      213: 8573625631360562067
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_131
+  - first:
+      213: 3957654945523692958
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_132
+  - first:
+      213: -5249567441047477527
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_133
+  - first:
+      213: -785146942303365123
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_134
+  - first:
+      213: 372910442011335348
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_135
+  - first:
+      213: 473329687226985337
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_136
+  - first:
+      213: -4717675774505160512
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_137
+  - first:
+      213: 6846325942114499984
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_138
+  - first:
+      213: -8495080949435612860
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_139
+  - first:
+      213: -1213770084654112787
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_140
+  - first:
+      213: -2119721835519304946
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_141
+  - first:
+      213: -109283883732869473
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_142
+  - first:
+      213: 6692599418240255179
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_143
+  - first:
+      213: 6826020242767998898
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_144
+  - first:
+      213: 5213599410013944007
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_145
+  - first:
+      213: -3366953070035387539
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_146
+  - first:
+      213: 7686084408400374497
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_147
+  - first:
+      213: -7081635133396498261
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_148
+  - first:
+      213: 4650749923513442555
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_149
+  - first:
+      213: 3709175209712555392
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_150
+  - first:
+      213: -6727868376316814708
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_151
+  - first:
+      213: -3976696026597345883
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_152
+  - first:
+      213: -3218878141847683267
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_153
+  - first:
+      213: 3960861261028118789
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_154
+  - first:
+      213: -4440945724018059521
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_155
+  - first:
+      213: -6377445579435296475
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_156
+  - first:
+      213: 1038567387797518657
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_157
+  - first:
+      213: 8182255087637193616
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_158
+  - first:
+      213: 1140928517493873075
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_159
+  - first:
+      213: -6171296842131253018
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_160
+  - first:
+      213: 6237121630393526448
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_161
+  - first:
+      213: 893272441482067800
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_162
+  - first:
+      213: 7500757881089420144
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_163
+  - first:
+      213: 8039154539742120958
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_164
+  - first:
+      213: 8197730727166661088
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_165
+  - first:
+      213: 7533927057883140413
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_166
+  - first:
+      213: 960181293784254917
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_167
+  - first:
+      213: -939658277477990121
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_168
+  - first:
+      213: -3129606731966673038
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_169
+  - first:
+      213: 4676942785994527195
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_170
+  - first:
+      213: 8235422972421740153
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_171
+  - first:
+      213: -5040288563311841864
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_172
+  - first:
+      213: 7816769979941444739
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_173
+  - first:
+      213: 8953996132166040415
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_174
+  - first:
+      213: 1139442043637644179
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_175
+  - first:
+      213: 7353758555461931353
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_176
+  - first:
+      213: -2971785851055168079
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_177
+  - first:
+      213: -2038151959740732968
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_178
+  - first:
+      213: -7595945874286739547
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_179
+  - first:
+      213: -6253873836639677337
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_180
+  - first:
+      213: -5959648568005559360
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_181
+  - first:
+      213: 9011104848696159582
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_182
+  - first:
+      213: -5746703499206798905
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_183
+  - first:
+      213: 1866430308250383062
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_184
+  - first:
+      213: -2036472286259923381
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_185
+  - first:
+      213: 5977486165774875841
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_186
+  - first:
+      213: -7867359487777702553
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_187
+  - first:
+      213: 9060109581978123030
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_188
+  - first:
+      213: 535265786551694990
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_189
+  - first:
+      213: -3712320947192972197
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_190
+  - first:
+      213: 4551448186849717619
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_191
+  - first:
+      213: -3529953589663135675
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_192
+  - first:
+      213: -8279758853864599707
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_193
+  - first:
+      213: 6721761726583256785
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_194
+  - first:
+      213: -7444616874921773928
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_195
+  - first:
+      213: 5300345718357212915
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_196
+  - first:
+      213: 2975532043191980509
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_197
+  - first:
+      213: 4033453880344707354
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_198
+  - first:
+      213: 7533754503568471065
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_199
+  - first:
+      213: -3992943186098908880
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_200
+  - first:
+      213: -2961728685145557019
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_201
+  - first:
+      213: 6123785357365567738
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_202
+  - first:
+      213: -7122449525213981142
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_203
+  - first:
+      213: -482789763399469103
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_204
+  - first:
+      213: -6711164920481456850
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_205
+  - first:
+      213: 1793462625766701431
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_206
+  - first:
+      213: -2052176536508445774
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_207
+  - first:
+      213: 4892354206432819258
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_208
+  - first:
+      213: 4487297943697448238
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_209
+  - first:
+      213: 6400185403364617296
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_210
+  - first:
+      213: 1264284492021767642
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_211
+  - first:
+      213: 3743686050306858065
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_212
+  - first:
+      213: 3274165155818468970
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_213
+  - first:
+      213: 6059759135396918283
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_214
+  - first:
+      213: 635090205974399376
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_215
+  - first:
+      213: -740194290046622413
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_216
+  - first:
+      213: -4920723921528143219
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_217
+  - first:
+      213: -3601474727226156227
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_218
+  - first:
+      213: 5721277615174194521
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_219
+  - first:
+      213: -8239904906569712316
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_220
+  - first:
+      213: 1505349509505861535
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_221
+  - first:
+      213: -5242282022166313521
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_222
+  - first:
+      213: -2553770924927392310
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_223
+  - first:
+      213: 916295714871721206
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_224
+  - first:
+      213: -7366503444476713203
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_225
+  - first:
+      213: 2152152573540096429
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_226
+  - first:
+      213: 7877788316989971006
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_227
+  - first:
+      213: 7868956716305489733
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_228
+  - first:
+      213: 8660213313161034888
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_229
+  - first:
+      213: -1661518023889434941
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_230
+  - first:
+      213: 3173265246394020324
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_231
+  - first:
+      213: -786934295861139156
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_232
+  - first:
+      213: -89409952442611386
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_233
+  - first:
+      213: 5482949808505643501
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_234
+  - first:
+      213: -6048081116997572023
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_235
+  - first:
+      213: -628296395602303838
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_236
+  - first:
+      213: 1033435935233447129
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_237
+  - first:
+      213: 5536318841385032896
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_238
+  - first:
+      213: 8169026691240323718
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_239
+  - first:
+      213: 4153973420095368912
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_240
+  - first:
+      213: -4684283145286886630
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_241
+  - first:
+      213: 7983450016894224169
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_242
+  - first:
+      213: -3688350269170203574
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_243
+  - first:
+      213: -3194125504797186075
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_244
+  - first:
+      213: 9008870465070730322
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_245
+  - first:
+      213: -5143138296448426326
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_246
+  - first:
+      213: 8080606640948818301
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_247
+  - first:
+      213: -5992567838444570196
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_248
+  - first:
+      213: 5761752080605510314
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_249
+  - first:
+      213: 2579104590934994701
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_250
+  - first:
+      213: -5844983768781812035
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_251
+  - first:
+      213: -5536301837094433893
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_252
+  - first:
+      213: 4168799214812100612
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_253
+  - first:
+      213: -1868140108044653648
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_254
+  - first:
+      213: -3895457367965867096
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_255
+  - first:
+      213: -7844836128946067012
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_256
+  - first:
+      213: 6064357174374065822
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_257
+  - first:
+      213: 7377502160508038517
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_258
+  - first:
+      213: -9117648636221316151
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_259
+  - first:
+      213: 8141142198523818473
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_260
+  - first:
+      213: 8678211511990084930
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_261
+  - first:
+      213: -2413685739736318997
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_262
+  - first:
+      213: -7310211212078298363
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_263
+  - first:
+      213: 8857702375495048128
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_264
+  - first:
+      213: -3062552407277750724
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_265
+  - first:
+      213: 214958444171059935
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_266
+  - first:
+      213: -4012085981908771040
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_267
+  - first:
+      213: -4051451867762793139
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_268
+  - first:
+      213: -4453904004764644449
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_269
+  - first:
+      213: -1542368830372938463
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_270
+  - first:
+      213: 5720745084017007296
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_271
+  - first:
+      213: -8621994139307732595
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_272
+  - first:
+      213: -8377854898530345424
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_273
+  - first:
+      213: 7321075142933067392
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_274
+  - first:
+      213: -9204389852914960372
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_275
+  - first:
+      213: 3628759891502671754
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_276
+  - first:
+      213: 8717312352646979559
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_277
+  - first:
+      213: -4306030726486403048
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_278
+  - first:
+      213: 3161618530106423837
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_279
+  - first:
+      213: -505742561269588672
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_280
+  - first:
+      213: -2765881872710344044
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_281
+  - first:
+      213: -7967069512228392496
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_282
+  - first:
+      213: 9197123706453913548
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_283
+  - first:
+      213: 3732542250982957505
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_284
+  - first:
+      213: -3593106266173842714
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_285
+  - first:
+      213: 36617386810172589
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_286
+  - first:
+      213: 7152202464463778603
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_287
+  - first:
+      213: 599158222853764907
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_288
+  - first:
+      213: 297739885535734872
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_289
+  - first:
+      213: -6353921857263448320
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_290
+  - first:
+      213: -2292097662662981543
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_291
+  - first:
+      213: -593870267499484889
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_292
+  - first:
+      213: -2407140526741772479
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_293
+  - first:
+      213: 7306569889474940507
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_294
+  - first:
+      213: 4445652784079411890
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_295
+  - first:
+      213: -7220018786986527174
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_296
+  - first:
+      213: -6870539372571947081
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_297
+  - first:
+      213: -4667519177225003797
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_298
+  - first:
+      213: -534672245969396057
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_299
+  - first:
+      213: 2669318077451174724
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_300
+  - first:
+      213: -4962120479369358538
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_301
+  - first:
+      213: -6809007684588831123
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_302
+  - first:
+      213: -3822537430196134562
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_303
+  - first:
+      213: 8986874471594692572
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_304
+  - first:
+      213: 399616583455163415
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_305
+  - first:
+      213: 3162304599886932106
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_306
+  - first:
+      213: 4898181056283533978
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_307
+  - first:
+      213: 5777876141993199013
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_308
+  - first:
+      213: -1300984876163224578
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_309
+  - first:
+      213: 8143304690355213898
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_310
+  - first:
+      213: 9218495946326503571
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_311
+  - first:
+      213: 5091499852633539393
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_312
+  - first:
+      213: -513478079901511119
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_313
+  - first:
+      213: -481417220652441238
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_314
+  - first:
+      213: -1849475124387456481
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_315
+  - first:
+      213: 507341896011467779
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_316
+  - first:
+      213: 6963854078640508665
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_317
+  - first:
+      213: 29030539524888882
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_318
+  - first:
+      213: -1825059437779002307
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_319
+  - first:
+      213: -1477904009316396098
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_320
+  - first:
+      213: 6438286918530435968
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_321
+  - first:
+      213: 1615413362855605580
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_322
+  - first:
+      213: -2497819772156597704
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_323
+  - first:
+      213: -8739406686721965552
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_324
+  - first:
+      213: -506215261727347709
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_325
+  - first:
+      213: 1906935839443849217
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_326
+  - first:
+      213: 6787826076856512007
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_327
+  - first:
+      213: -546454349519223378
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_328
+  - first:
+      213: -1678257368378511271
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_329
+  - first:
+      213: 3413463807876976101
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_330
+  - first:
+      213: -3401998652637377817
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_331
+  - first:
+      213: 6282874431083577492
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_332
+  - first:
+      213: -7800479897089683878
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_333
+  - first:
+      213: 7654878060511653674
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_334
+  - first:
+      213: -3740903354628665199
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_335
+  - first:
+      213: 5602651009832464055
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_336
+  - first:
+      213: 4294238802934572633
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_337
+  - first:
+      213: -6997752123647236957
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_338
+  - first:
+      213: 6746578191894145382
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_339
+  - first:
+      213: 4555702280634627179
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_340
+  - first:
+      213: 5323398051522298497
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_341
+  - first:
+      213: 3465352156750156245
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_342
+  - first:
+      213: -4246947356351442511
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_343
+  - first:
+      213: -3053023371373818135
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_344
+  - first:
+      213: 9018972049361692958
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_345
+  - first:
+      213: 5732634288067134000
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_346
+  - first:
+      213: -4886469164592504065
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_347
+  - first:
+      213: -445444967037510081
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_348
+  - first:
+      213: 8138613156052698984
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_349
+  - first:
+      213: 3786839906630417256
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_350
+  - first:
+      213: -5095449812069719696
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_351
+  - first:
+      213: 3570467704116269201
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_352
+  - first:
+      213: -5988498953131502826
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_353
+  - first:
+      213: 1416061530656724999
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_354
+  - first:
+      213: -3350583537944184428
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_355
+  - first:
+      213: 4830081467352574887
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_356
+  - first:
+      213: -5220069105305244636
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_357
+  - first:
+      213: -1784929068253130647
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_358
+  - first:
+      213: 6268497555525816225
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_359
+  - first:
+      213: -4283640253469959030
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_360
+  - first:
+      213: -3999176156217155642
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_361
+  - first:
+      213: -5012210887769319826
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_362
+  - first:
+      213: 244909292232369935
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_363
+  - first:
+      213: -1516991971919700319
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_364
+  - first:
+      213: -872378662387274173
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_365
+  - first:
+      213: -3411256701709359838
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_366
+  - first:
+      213: -2491250476416821468
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_367
+  - first:
+      213: -5732184637044186322
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_368
+  - first:
+      213: 1746148174123284893
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_369
+  - first:
+      213: -5147980119583736488
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_370
+  - first:
+      213: -6611914853092017893
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_371
+  - first:
+      213: 3980026715637014113
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_372
+  - first:
+      213: 8650628023135237186
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_373
+  - first:
+      213: -5456806526116689889
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_374
+  - first:
+      213: -8062279638881472179
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_375
+  - first:
+      213: 5031423557547380339
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_376
+  - first:
+      213: 3310419174605056022
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_377
+  - first:
+      213: -2959633916603044841
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_378
+  - first:
+      213: -5390279168278457334
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_379
+  - first:
+      213: 8761737021613948955
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_380
+  - first:
+      213: -4322946982987066181
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_381
+  - first:
+      213: 7368063486553349304
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_382
+  - first:
+      213: 3574275157974450358
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_383
+  - first:
+      213: 1024745519588333500
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_384
+  - first:
+      213: -2760847665058776583
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_385
+  - first:
+      213: 2515397926176337706
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_386
+  - first:
+      213: 6367533797910047670
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_387
+  - first:
+      213: -699143800642640880
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_388
+  - first:
+      213: -8807093104498151508
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_389
+  - first:
+      213: 4902249292858804406
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_390
+  - first:
+      213: -8399214751632508628
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_391
+  - first:
+      213: -5416663999416546545
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_392
+  - first:
+      213: -5134998245336482929
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_393
+  - first:
+      213: -5367388286444437942
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_394
+  - first:
+      213: -3723845905905530508
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_395
+  - first:
+      213: 601803558724576381
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_396
+  - first:
+      213: 8089727144159028388
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_397
+  - first:
+      213: 4516141120572095122
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_398
+  - first:
+      213: 6769770276531751694
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_399
+  - first:
+      213: 5334605019584513448
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_400
+  - first:
+      213: -3013019095801754082
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_401
+  - first:
+      213: -1473794489802277004
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_402
+  - first:
+      213: -3151948430581558707
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_403
+  - first:
+      213: -8032570269860273268
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_404
+  - first:
+      213: -8563897974375740592
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_405
+  - first:
+      213: -5392720565803638678
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_406
+  - first:
+      213: 1024812757027646654
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_407
+  - first:
+      213: -4220834531484589322
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_408
+  - first:
+      213: 919576349119389063
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_409
+  - first:
+      213: -5973225175431553806
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_410
+  - first:
+      213: -2544961918081234063
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_411
+  - first:
+      213: 2178955317780813247
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_412
+  - first:
+      213: -4999100997574650699
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_413
+  - first:
+      213: 57035405806242021
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_414
+  - first:
+      213: 7757949790348032004
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_415
+  - first:
+      213: -4783605356947635419
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_416
+  - first:
+      213: 1396990085566422941
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_417
+  - first:
+      213: -3463735759027377695
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_418
+  - first:
+      213: 2087728730370992343
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_419
+  - first:
+      213: -5088837011914683008
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_420
+  - first:
+      213: -2614341258143109610
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_421
+  - first:
+      213: 3734792554379208255
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_422
+  - first:
+      213: 5763327985517712134
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_423
+  - first:
+      213: 7278338037396924858
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_424
+  - first:
+      213: -4916632598458996192
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_425
+  - first:
+      213: -2895442458598887336
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_426
+  - first:
+      213: 693211114590611826
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_427
+  - first:
+      213: 5198503680493290435
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_428
+  - first:
+      213: 7096162727505229251
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_429
+  - first:
+      213: 1260679290380655655
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_430
+  - first:
+      213: 8148687624687931757
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_431
+  - first:
+      213: -854880152483676744
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_432
+  - first:
+      213: -6226375390546504986
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_433
+  - first:
+      213: 8676120026867375600
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_434
+  - first:
+      213: 4311266725103166753
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_435
+  - first:
+      213: -4800180314025091232
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_436
+  - first:
+      213: -3893142487916112788
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_437
+  - first:
+      213: -923039793238081219
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_438
+  - first:
+      213: -1925638315952706400
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_439
+  - first:
+      213: -7420251358907918253
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_440
+  - first:
+      213: 1373247593893936573
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_441
+  - first:
+      213: -3194422936826122628
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_442
+  - first:
+      213: 127804769916232741
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_443
+  - first:
+      213: 1040456076341165175
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_444
+  - first:
+      213: 5625025151421470884
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_445
+  - first:
+      213: -3259845932732749620
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_446
+  - first:
+      213: -412162139958794474
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_447
+  - first:
+      213: 2492658124273725157
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_448
+  - first:
+      213: 6233198722988586638
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_449
+  - first:
+      213: 8412119279231179495
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_450
+  - first:
+      213: 1471899561160288152
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_451
+  - first:
+      213: -5066841327926337195
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_452
+  - first:
+      213: 6660364164745048273
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_453
+  - first:
+      213: 3700413575363863113
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_454
+  - first:
+      213: 6444659629311895635
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_455
+  - first:
+      213: -6021123200387304268
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_456
+  - first:
+      213: 515834193736453547
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_457
+  - first:
+      213: -7395583819683460881
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_458
+  - first:
+      213: 156409824197056858
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_459
+  - first:
+      213: -7004208450343408563
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_460
+  - first:
+      213: 8240301827799678886
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_461
+  - first:
+      213: -2398918820531548329
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_462
+  - first:
+      213: 1946504183325697271
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_463
+  - first:
+      213: -7242778751687471433
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_464
+  - first:
+      213: 5063756792988478379
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_465
+  - first:
+      213: 2820807746711233513
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_466
+  - first:
+      213: -1209641390860332641
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_467
+  - first:
+      213: 9065010555891706880
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_468
+  - first:
+      213: 3568795541972855873
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_469
+  - first:
+      213: -8966570064313721993
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_470
+  - first:
+      213: -3375737146688618070
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_471
+  - first:
+      213: 6077647648894484765
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_472
+  - first:
+      213: -6641555789015231675
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_473
+  - first:
+      213: -4548404237562909283
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_474
+  - first:
+      213: 919068435818804379
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_475
+  - first:
+      213: 6522564942880464801
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_476
+  - first:
+      213: -1252119493420574807
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_477
+  - first:
+      213: -711423372700694131
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_478
+  - first:
+      213: -7057976628612195546
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_479
+  - first:
+      213: -1151267377645903501
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_480
+  - first:
+      213: -942971932493250131
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_481
+  - first:
+      213: -1390857502853497716
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_482
+  - first:
+      213: 6021090305629305735
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_483
+  - first:
+      213: -2762892286845385371
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_484
+  - first:
+      213: -7911383626756870224
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_485
+  - first:
+      213: -122494168621813522
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_486
+  - first:
+      213: -6429767851265348429
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_487
+  - first:
+      213: -8892709024883353162
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_488
+  - first:
+      213: 5029341149324600538
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_489
+  - first:
+      213: 526976069477462653
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_490
+  - first:
+      213: -8347461324388901371
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_491
+  - first:
+      213: 191866339915357183
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_492
+  - first:
+      213: 2669689798015884411
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_493
+  - first:
+      213: 5439878689588033154
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_494
+  - first:
+      213: 2352276974762365626
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_495
+  - first:
+      213: -7770918032989046635
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_496
+  - first:
+      213: -6978162600331728118
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_497
+  - first:
+      213: 7503774412194237244
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_498
+  - first:
+      213: -4625478501761146310
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_499
+  - first:
+      213: -4807557223181407923
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_500
+  - first:
+      213: 1278008177039058994
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_501
+  - first:
+      213: 7051241997936728285
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_502
+  - first:
+      213: -2290969378495589596
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_503
+  - first:
+      213: 933284112353829123
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_504
+  - first:
+      213: 8547640494969755888
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_505
+  - first:
+      213: -2883538625898302492
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_506
+  - first:
+      213: 6517527595110058947
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_507
+  - first:
+      213: -5502815703064134588
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_508
+  - first:
+      213: -5846370861059451943
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_509
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 960
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51d9fedb22fef580800000000000000
+      internalID: -8791323152342199970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_1
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 544
+        width: 960
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e72db8c6f63aff0800000000000000
+      internalID: -26054660841111954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 960
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d935280e4f9faff70800000000000000
+      internalID: 9221958017128485789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Main Menu Background_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 960
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc70e295d005c740800000000000000
+      internalID: 5171540664397102268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d8f5cd1504fbcfb4f85126491328bdda
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
