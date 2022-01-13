@@ -8,24 +8,41 @@ public class MenuSounds : MonoBehaviour
     public AudioClip textConfirm;
     public AudioClip menuBack;
     public AudioClip no;
+    public AudioClip pause;
+    public AudioClip unPause;
+
+    private AudioSource audioSource;
+
+    private void Start()
+    {
+        audioSource = this.GetComponent<AudioSource>();
+    }
 
     public void PlaySound(string clipName)
     {
         if (clipName == "menuSelect")
         {
-            this.GetComponent<AudioSource>().PlayOneShot(menuSelect);
+            audioSource.PlayOneShot(menuSelect);
         }
         else if (clipName == "textConfirm")
         {
-            this.GetComponent<AudioSource>().PlayOneShot(textConfirm);
+            audioSource.PlayOneShot(textConfirm);
         }
         else if (clipName == "menuBack")
         {
-            this.GetComponent<AudioSource>().PlayOneShot(menuBack);
+            audioSource.PlayOneShot(menuBack);
         }
         else if (clipName == "no")
         {
-            this.GetComponent<AudioSource>().PlayOneShot(no);
+            audioSource.PlayOneShot(no);
+        }
+        else if (clipName == "pause")
+        {
+            audioSource.PlayOneShot(pause);
+        }
+        else if (clipName == "unPause")
+        {
+            audioSource.PlayOneShot(unPause);
         }
 
     }

@@ -18,6 +18,14 @@ public class Pause : MonoBehaviour
     // boolean to determine if currently paused
     bool paused = false;
 
+    // MenuSounds reference
+    private MenuSounds menuSounds;
+
+    private void Start()
+    {
+        menuSounds = this.GetComponent<MenuSounds>();
+    }
+
     // Update is called once per frame
     void Update()
     {
@@ -30,6 +38,7 @@ public class Pause : MonoBehaviour
                 pauseMenu.SetActive(true);
                 Cursor.lockState = CursorLockMode.None;
                 paused = true;
+                menuSounds.PlaySound("pause");
             }
             else
             {
@@ -37,7 +46,8 @@ public class Pause : MonoBehaviour
                 pauseMenu.SetActive(false);
                 HUD.SetActive(true);
                 Cursor.lockState = CursorLockMode.Locked;
-                paused = false;   
+                paused = false;
+                menuSounds.PlaySound("unPause");
             }
         }
     }
