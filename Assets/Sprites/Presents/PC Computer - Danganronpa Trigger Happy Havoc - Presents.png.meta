@@ -1,0 +1,3367 @@
+fileFormatVersion: 2
+guid: a321eb4f296596a4bafab11b63230d1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2702825874129610457
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_0
+  - first:
+      213: -6093894669464017475
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_1
+  - first:
+      213: 7378561522508084272
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_2
+  - first:
+      213: 7795989229662626975
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_3
+  - first:
+      213: 1627198846795480999
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_4
+  - first:
+      213: 437589002701840777
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_5
+  - first:
+      213: -8330953386583236544
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_6
+  - first:
+      213: 6551323688762263082
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_7
+  - first:
+      213: 5351770158020144603
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_8
+  - first:
+      213: 6194988093242120744
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_9
+  - first:
+      213: 5518787802094654245
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_10
+  - first:
+      213: -6404649705071593623
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_11
+  - first:
+      213: -7146166213804857189
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_12
+  - first:
+      213: -262608673032499801
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_13
+  - first:
+      213: -2171747624607561879
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_14
+  - first:
+      213: -7712126436597545653
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_15
+  - first:
+      213: -3331476908947109988
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_16
+  - first:
+      213: 2278953483553908789
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_17
+  - first:
+      213: 8703611277238142862
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_18
+  - first:
+      213: -7643261581180987127
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_19
+  - first:
+      213: -7906347657065046064
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_20
+  - first:
+      213: 4804613786489159720
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_21
+  - first:
+      213: 2949233926802010664
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_22
+  - first:
+      213: 9150817301843102663
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_23
+  - first:
+      213: -2890319210397421661
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_24
+  - first:
+      213: -680757549635581497
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_25
+  - first:
+      213: -525143659334534539
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_26
+  - first:
+      213: -1657960116880971757
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_27
+  - first:
+      213: 474967060634422599
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_28
+  - first:
+      213: -7626726337336811012
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_29
+  - first:
+      213: 1278939287817071235
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_30
+  - first:
+      213: -7005159267587817932
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_31
+  - first:
+      213: -5267478133282105613
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_32
+  - first:
+      213: -8615857458955267853
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_33
+  - first:
+      213: -791554555002372635
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_34
+  - first:
+      213: -5692250628304880027
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_35
+  - first:
+      213: -799708381658469093
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_36
+  - first:
+      213: -7572202992190355422
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_37
+  - first:
+      213: -7095140985591473977
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_38
+  - first:
+      213: 9131052670437026184
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_39
+  - first:
+      213: 6170737496991448097
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_40
+  - first:
+      213: 838264972284654916
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_41
+  - first:
+      213: 1999945649233405049
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_42
+  - first:
+      213: 4146054159075596219
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_43
+  - first:
+      213: -4393282337432987380
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_44
+  - first:
+      213: -4508345017603512372
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_45
+  - first:
+      213: -1472037673251466995
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_46
+  - first:
+      213: -5231568496489977570
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_47
+  - first:
+      213: 5430722988854287790
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_48
+  - first:
+      213: 8926902411823999034
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_49
+  - first:
+      213: 1384637480446135814
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_50
+  - first:
+      213: 3491652088889445118
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_51
+  - first:
+      213: -1754806633509178211
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_52
+  - first:
+      213: 970427715892937207
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_53
+  - first:
+      213: -1709333877654969852
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_54
+  - first:
+      213: 8655250872188427047
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_55
+  - first:
+      213: 3205089456934743062
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_56
+  - first:
+      213: 4723699306574090737
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_57
+  - first:
+      213: -8893606043740805733
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_58
+  - first:
+      213: 7231689236828855232
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_59
+  - first:
+      213: 8352618234989762652
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_60
+  - first:
+      213: -5187828161179498914
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_61
+  - first:
+      213: -3825031232654663532
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_62
+  - first:
+      213: 2480242173050398013
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_63
+  - first:
+      213: -6945736179531511962
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_64
+  - first:
+      213: 8037710686029267383
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_65
+  - first:
+      213: -8830985259568646384
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_66
+  - first:
+      213: -113325975545373329
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_67
+  - first:
+      213: 8801183374032611314
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_68
+  - first:
+      213: -1042158327908807742
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_69
+  - first:
+      213: -3867557105494841561
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_70
+  - first:
+      213: -5245564116087024898
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_71
+  - first:
+      213: -182447337094362175
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_72
+  - first:
+      213: -1502298074984526075
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_73
+  - first:
+      213: -5003135298773939201
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_74
+  - first:
+      213: 3469708853916966848
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_75
+  - first:
+      213: -5260420273194225442
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_76
+  - first:
+      213: -8201416622794131039
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_77
+  - first:
+      213: -4096772020559718964
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_78
+  - first:
+      213: -4751300946058878831
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_79
+  - first:
+      213: -5624654429104734079
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_80
+  - first:
+      213: 4970493993213947257
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_81
+  - first:
+      213: 9136249759806950719
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_82
+  - first:
+      213: 3538839955650627140
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_83
+  - first:
+      213: -1081652518691011559
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_84
+  - first:
+      213: -3915914440203088572
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_85
+  - first:
+      213: 3354573236366457257
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_86
+  - first:
+      213: -3953844182857660775
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_87
+  - first:
+      213: 765303369506847719
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_88
+  - first:
+      213: 1940483737819700337
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_89
+  - first:
+      213: -549947982054794452
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_90
+  - first:
+      213: -8150088146269802710
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_91
+  - first:
+      213: -4557655038203382530
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_92
+  - first:
+      213: 3309136627111212024
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_93
+  - first:
+      213: 1992445774036122360
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_94
+  - first:
+      213: 1845564466731532119
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_95
+  - first:
+      213: -2829117924563624419
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_96
+  - first:
+      213: -8451069319835227166
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_97
+  - first:
+      213: 3104242256891308426
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_98
+  - first:
+      213: -2960698491369191384
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_99
+  - first:
+      213: -4650195778407419983
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_100
+  - first:
+      213: -3935933346614309129
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_101
+  - first:
+      213: -6711799775597299553
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_102
+  - first:
+      213: 2755380720101018646
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_103
+  - first:
+      213: -6172611798231794041
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_104
+  - first:
+      213: 6436937610943723408
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_105
+  - first:
+      213: -1302066212987078578
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_106
+  - first:
+      213: -955621361268678223
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_107
+  - first:
+      213: 6430024756328590225
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_108
+  - first:
+      213: -5744652981692080458
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_109
+  - first:
+      213: 4862449585143476550
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_110
+  - first:
+      213: 146337851596715597
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_111
+  - first:
+      213: -4979444646188112641
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_112
+  - first:
+      213: 8197953415655944352
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_113
+  - first:
+      213: 5979938378578467639
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_114
+  - first:
+      213: -4253084680879952890
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_115
+  - first:
+      213: -4246300103096485154
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_116
+  - first:
+      213: -2216467387091982527
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_117
+  - first:
+      213: 930085404281194393
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_118
+  - first:
+      213: -7018272484167095882
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_119
+  - first:
+      213: 75608517853374819
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_120
+  - first:
+      213: -8019354178572345700
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_121
+  - first:
+      213: -3469363068278689430
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_122
+  - first:
+      213: 8469008125081723180
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_123
+  - first:
+      213: 5726671950516472449
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_124
+  - first:
+      213: -4200200717954252374
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_125
+  - first:
+      213: -531518174388022508
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_126
+  - first:
+      213: -5720065281026915305
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_127
+  - first:
+      213: -2869509544853346408
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_128
+  - first:
+      213: 8638075366482393234
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_129
+  - first:
+      213: -8197145960250664831
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_130
+  - first:
+      213: -7801922970515703305
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_131
+  - first:
+      213: 5928607829289528177
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_132
+  - first:
+      213: 875988553597773686
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_133
+  - first:
+      213: 2730962578941735787
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_134
+  - first:
+      213: -2926103221062152060
+    second: PC Computer - Danganronpa Trigger Happy Havoc - Presents_135
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 7020
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6ea35ffcd528520800000000000000
+      internalID: 2702825874129610457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 7020
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db563ffb5132e6ba0800000000000000
+      internalID: -6093894669464017475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 7020
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034b5768c9ae56660800000000000000
+      internalID: 7378561522508084272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_3
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 7020
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94efc246eae03c60800000000000000
+      internalID: 7795989229662626975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6793
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af7b2adab8f49610800000000000000
+      internalID: 1627198846795480999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 6794
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98129a721e0a21600800000000000000
+      internalID: 437589002701840777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 6794
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0406e50c802826c80800000000000000
+      internalID: -8330953386583236544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_7
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 6794
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26c64d3f2afaea50800000000000000
+      internalID: 6551323688762263082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6568
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdda3549a9e454a40800000000000000
+      internalID: 5351770158020144603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 6568
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a987d29d409f550800000000000000
+      internalID: 6194988093242120744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 6568
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5235c96244ca69c40800000000000000
+      internalID: 5518787802094654245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_11
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 6568
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967b56ac60d1e17a0800000000000000
+      internalID: -6404649705071593623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6342
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b986348c0b7b3dc90800000000000000
+      internalID: -7146166213804857189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 6342
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad06f0adc60b5cf0800000000000000
+      internalID: -262608673032499801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 6342
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967c775ba076cd1e0800000000000000
+      internalID: -2171747624607561879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_15
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 6342
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4544b3ddd509f490800000000000000
+      internalID: -7712126436597545653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6116
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c978ac8f66734c1d0800000000000000
+      internalID: -3331476908947109988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 6116
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538aede6e1870af10800000000000000
+      internalID: 2278953483553908789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_18
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 6116
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e870ddac75079c870800000000000000
+      internalID: 8703611277238142862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_19
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 6116
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9091150761eade590800000000000000
+      internalID: -7643261581180987127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 5890
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df55ed02b2074290800000000000000
+      internalID: -7906347657065046064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_21
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 5890
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82081aa68ca6da240800000000000000
+      internalID: 4804613786489159720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5890
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822709671a8cde820800000000000000
+      internalID: 2949233926802010664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_23
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 5890
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb4bd85adb3efe70800000000000000
+      internalID: 9150817301843102663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5786
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af26c0edf583e7d0800000000000000
+      internalID: -2890319210397421661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_25
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 5786
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c94ecb8d967d86f0800000000000000
+      internalID: -680757549635581497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_26
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 5786
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57af059cf9056b8f0800000000000000
+      internalID: -525143659334534539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_27
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 5786
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3186b85de0ebdf8e0800000000000000
+      internalID: -1657960116880971757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5578
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d4021760c679600800000000000000
+      internalID: 474967060634422599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_29
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 5578
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf16ce7edcc682690800000000000000
+      internalID: -7626726337336811012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_30
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 5578
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38aa0a39184bfb110800000000000000
+      internalID: 1278939287817071235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_31
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 5578
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e7464d2cca8ce90800000000000000
+      internalID: -7005159267587817932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5370
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6159bcb8826e6b0800000000000000
+      internalID: -5267478133282105613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 5370
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f052933a435e6880800000000000000
+      internalID: -8615857458955267853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_34
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 5370
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edbdb87355d305f0800000000000000
+      internalID: -791554555002372635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_35
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 5370
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eb46f56301101b0800000000000000
+      internalID: -5692250628304880027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5162
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d2853c67dd6e4f0800000000000000
+      internalID: -799708381658469093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_37
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 5162
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22808537f712ae690800000000000000
+      internalID: -7572202992190355422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_38
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 5162
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c851828ddef88d90800000000000000
+      internalID: -7095140985591473977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_39
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 5162
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889e7ce760408be70800000000000000
+      internalID: 9131052670437026184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4954
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cbb5e3f0dd2a550800000000000000
+      internalID: 6170737496991448097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_41
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 4954
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445fdac0d8d12ab00800000000000000
+      internalID: 838264972284654916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_42
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 4954
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97425a8c8fb31cb10800000000000000
+      internalID: 1999945649233405049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_43
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 4954
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb75b3b7a4eb98930800000000000000
+      internalID: 4146054159075596219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4746
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c091f4f9dfce703c0800000000000000
+      internalID: -4393282337432987380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_45
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 4746
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc727dcb7142f61c0800000000000000
+      internalID: -4508345017603512372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_46
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 4746
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d019add0985429be0800000000000000
+      internalID: -1472037673251466995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_47
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 4746
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e192794ab2cb567b0800000000000000
+      internalID: -5231568496489977570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4538
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead153009cdcd5b40800000000000000
+      internalID: 5430722988854287790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_49
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 4538
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38e851627ab2eb70800000000000000
+      internalID: 8926902411823999034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_50
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 4538
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e0facc378373310800000000000000
+      internalID: 1384637480446135814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_51
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 4538
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa81854317d47030800000000000000
+      internalID: 3491652088889445118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4330
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94bf280aaca5a7e0800000000000000
+      internalID: -1754806633509178211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_53
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 4330
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f10ef5bdd6a77d00800000000000000
+      internalID: 970427715892937207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_54
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 4330
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402a5db05e93748e0800000000000000
+      internalID: -1709333877654969852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_55
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 4330
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b5eae8fc0ad1870800000000000000
+      internalID: 8655250872188427047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4122
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ce1f931e3ca7c20800000000000000
+      internalID: 3205089456934743062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_57
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 4122
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f19b1afd73fd8140800000000000000
+      internalID: 4723699306574090737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_58
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 4122
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95ef8e6c60939480800000000000000
+      internalID: -8893606043740805733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_59
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 4122
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb1337bb0f1c5460800000000000000
+      internalID: 7231689236828855232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3914
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58d309d7067ae370800000000000000
+      internalID: 8352618234989762652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_61
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3914
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56c02116c12108b0800000000000000
+      internalID: -5187828161179498914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_62
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3914
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49028da1c52caeac0800000000000000
+      internalID: -3825031232654663532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_63
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 3914
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35ac919d179b6220800000000000000
+      internalID: 2480242173050398013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3706
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667027baeb9cb9f90800000000000000
+      internalID: -6945736179531511962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_65
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3706
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1c228884fab8f60800000000000000
+      internalID: 8037710686029267383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_66
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3706
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01733bae1b9027580800000000000000
+      internalID: -8830985259568646384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_67
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 3706
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d1bcb20a26d6ef0800000000000000
+      internalID: -113325975545373329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3498
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7a944e5a5142a70800000000000000
+      internalID: 8801183374032611314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_69
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3498
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbc749b5828981f0800000000000000
+      internalID: -1042158327908807742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_70
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3498
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7272172cd4da35ac0800000000000000
+      internalID: -3867557105494841561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_71
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 3498
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2d8168a330437b0800000000000000
+      internalID: -5245564116087024898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3290
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb46421d11d77df0800000000000000
+      internalID: -182447337094362175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_73
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3290
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f4bcd3cd3c62be0800000000000000
+      internalID: -1502298074984526075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_74
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3290
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb8c5914fa419ab0800000000000000
+      internalID: -5003135298773939201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_75
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 3290
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf9fbfb1d1e62030800000000000000
+      internalID: 3469708853916966848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3082
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0bef6e1ab3ff6b0800000000000000
+      internalID: -5260420273194225442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_77
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3082
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a93f57d807be2e80800000000000000
+      internalID: -8201416622794131039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_78
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3082
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc557cc8d875527c0800000000000000
+      internalID: -4096772020559718964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_79
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 3082
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190ee2986fcff0eb0800000000000000
+      internalID: -4751300946058878831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2874
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18082e0f89631f1b0800000000000000
+      internalID: -5624654429104734079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_81
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2874
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97deab7b3fdbaf440800000000000000
+      internalID: 4970493993213947257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_82
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2874
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d8a8820ca7ace70800000000000000
+      internalID: 9136249759806950719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_83
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2874
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446c389a03c7c1130800000000000000
+      internalID: 3538839955650627140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2666
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914040dd3c23df0f0800000000000000
+      internalID: -1081652518691011559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_85
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2666
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d4fd46090e7a9c0800000000000000
+      internalID: -3915914440203088572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_86
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2666
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9b7aec596dd8e20800000000000000
+      internalID: 3354573236366457257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_87
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2666
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996468ff9af1129c0800000000000000
+      internalID: -3953844182857660775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2458
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb7ddc1c57ee9a00800000000000000
+      internalID: 765303369506847719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_89
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2458
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c5a2dadabfdea10800000000000000
+      internalID: 1940483737819700337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_90
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2458
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b5eac59313e58f0800000000000000
+      internalID: -549947982054794452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_91
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2458
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f6771130215ee80800000000000000
+      internalID: -8150088146269802710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2250
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef43e17e3e4ffb0c0800000000000000
+      internalID: -4557655038203382530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_93
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2250
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3b234da3a6ced20800000000000000
+      internalID: 3309136627111212024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_94
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2250
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fab6a300e696ab10800000000000000
+      internalID: 1992445774036122360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_95
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2250
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fbd91ba13cc9910800000000000000
+      internalID: 1845564466731532119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2042
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ed1b6ac34fcb8d0800000000000000
+      internalID: -2829117924563624419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_97
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2042
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebe403ba35c7ba80800000000000000
+      internalID: -8451069319835227166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_98
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2042
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8963cab2eb741b20800000000000000
+      internalID: 3104242256891308426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_99
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2042
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82887e6986c79e6d0800000000000000
+      internalID: -2960698491369191384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1834
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf210cc39f277fb0800000000000000
+      internalID: -4650195778407419983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_101
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1834
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe80778971c069c0800000000000000
+      internalID: -3935933346614309129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_102
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1834
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98f9fb2aa5ead2a0800000000000000
+      internalID: -6711799775597299553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_103
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1834
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cc4929a241d3620800000000000000
+      internalID: 2755380720101018646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1626
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e320ef54a765aa0800000000000000
+      internalID: -6172611798231794041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_105
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1626
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097f6ad17a8945950800000000000000
+      internalID: 6436937610943723408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_106
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1626
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48fddc8da12eede0800000000000000
+      internalID: -1302066212987078578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_107
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1626
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b12ecd5f63fcb2f0800000000000000
+      internalID: -955621361268678223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1418
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19beee9b2790c3950800000000000000
+      internalID: 6430024756328590225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_109
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1418
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6beda54bc84e640b0800000000000000
+      internalID: -5744652981692080458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_110
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1418
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641f8b4a224ea7340800000000000000
+      internalID: 4862449585143476550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_111
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1418
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46bd9d2085e70200800000000000000
+      internalID: 146337851596715597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1210
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4ac3df97575eab0800000000000000
+      internalID: -4979444646188112641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_113
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1210
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a07f59623bf4c170800000000000000
+      internalID: 8197953415655944352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_114
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1210
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b15e1b5420df250800000000000000
+      internalID: 5979938378578467639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_115
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1210
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cae7c34020af4c0800000000000000
+      internalID: -4253084680879952890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1002
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaba39dd8c1215c0800000000000000
+      internalID: -4246300103096485154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_117
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1002
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147e420a7a68d31e0800000000000000
+      internalID: -2216467387091982527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_118
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1002
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997c4f45fb358ec00800000000000000
+      internalID: 930085404281194393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_119
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1002
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9625c2c561a9e90800000000000000
+      internalID: -7018272484167095882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369e4a0eb8d9c0100800000000000000
+      internalID: 75608517853374819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_121
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 794
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e962aecd785b090800000000000000
+      internalID: -8019354178572345700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_122
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 794
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61b36ebba85adfc0800000000000000
+      internalID: -3469363068278689430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_123
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 794
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21a46fd406f78570800000000000000
+      internalID: 8469008125081723180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 586
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a4abb3cc9397f40800000000000000
+      internalID: 5726671950516472449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_125
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 586
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa10ffc53b3e5b5c0800000000000000
+      internalID: -4200200717954252374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_126
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 586
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41310f7590baf98f0800000000000000
+      internalID: -531518174388022508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_127
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 586
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7148850eeee3e90b0800000000000000
+      internalID: -5720065281026915305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8976c63b5447d28d0800000000000000
+      internalID: -2869509544853346408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_129
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 378
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2983c3287cb90e770800000000000000
+      internalID: 8638075366482393234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_130
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 378
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1881b33fd23ed3e80800000000000000
+      internalID: -8197145960250664831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_131
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 378
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9737905600ab390800000000000000
+      internalID: -7801922970515703305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17be66dd865a64250800000000000000
+      internalID: 5928607829289528177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_133
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 170
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677e084c2f2282c00800000000000000
+      internalID: 875988553597773686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_134
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 170
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63f4bc0ff356e520800000000000000
+      internalID: 2730962578941735787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Danganronpa Trigger Happy Havoc - Presents_135
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 170
+        width: 372
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480d674af946467d0800000000000000
+      internalID: -2926103221062152060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6a19905d4102eb84a97c6c62479836e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
